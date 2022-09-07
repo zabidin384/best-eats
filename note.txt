@@ -1,5 +1,0 @@
-@Tailwind
-- bg-black/80 (opacity)
-- p-4 = 1 rem = 16px
-- duration-300 = smooth transition
-- mobile first approach
